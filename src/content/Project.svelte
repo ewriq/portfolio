@@ -1,7 +1,7 @@
 
 <section id="projects" class="mt-13 px-4 w-full max-w-7xl mx-auto  border border-neutral-900 rounded-xl p-8 flex flex-col-reverse lg:flex-row items-center justify-between gap-10">
     <div class="max-w-7xl mx-auto">
-      <h2 class="text-4xl font-bold text-white mb-12 text-left">Project</h2>
+      <h2 class="text-4xl font-bold text-white mb-12 text-left">Projects</h2>
   
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {#each [
