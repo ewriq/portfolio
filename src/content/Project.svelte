@@ -19,7 +19,30 @@
             title: "Score Table",
             desc: "A leaderboard site specially made for anime, like imdb.",
             link: "https://github.com/ewriq/anime-score"
-          }
+          },
+         {
+            title: "Pouch",
+            desc: "A control Docker Conteiners.",
+            link: "https://github.com/ewriq/pouch"
+          },
+         {
+            title: "Assaultrifle",
+            desc: "Aws Lightsail Clone",
+            link: "https://github.com/ewriq/assaultrifle"
+          },
+    {
+            title: "Kanban",
+            desc: "Trello Clone.",
+            link: "https://github.com/ewriq/kanban"
+          },
+
+    {
+            title: "Deepsearh",
+            desc: "Get data easily, perfect for research.",
+            link: "https://github.com/ewriq/awesome-golang"
+          },
+
+
         ] as project}
           <div class="bg-neutral-800 border border-neutral-700 rounded-xl shadow-lg p-6 transition hover:border-blue-500">
             <h3 class="text-2xl font-semibold text-white mb-3">{project.title}</h3>
