@@ -13,7 +13,7 @@
           {
             title: "Blog",
             desc: "My Markdown supported, Svelte-based personal blogging system.",
-            link: "hhttps://github.com/ewriq/blog-svelte-gofiber"
+            link: "https://github.com/ewriq/blog-svelte-gofiber"
           },
           {
             title: "Score Table",
